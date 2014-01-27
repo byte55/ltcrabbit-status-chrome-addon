@@ -2,6 +2,7 @@ Here where are rabbit's! We wrote a small Chrome-addon, to show your worker's ha
 
 It will use the LTCrabbit API, you will found it right at [MyAccount->Settings](https://www.ltcrabbit.com/index.php?page=account&action=edit).
 
+![ScreenShot](https://github.com/StrohhutMicha/ltcrabbit-status-chrome-addon/blob/master/screenshot.html)
 
 Install
 ==========
