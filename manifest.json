@@ -1,0 +1,22 @@
+{
+  "name": "ltcrabbit-status",
+  "short_name": "LC Checker",
+  "version": "1.0.0.0",
+  "manifest_version": 2,
+  "description": "We wrote a small Chrome-addon, to show your worker's hashrate, so no exessiv F5 needed",
+  "icons": {
+    "16": "icon_16.png",
+    "64": "icon_64.png",
+    "128": "icon_128.png"
+  },
+  "background": {
+    "scripts": ["popup.js","jquery.js"]
+  },
+  "permissions": [
+    "https://www.ltcrabbit.com/*"
+  ],
+  "browser_action": {
+    "default_icon": "icon_19.png",
+    "default_popup": "popup.html"
+  }
+}
