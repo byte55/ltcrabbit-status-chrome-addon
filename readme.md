@@ -9,7 +9,7 @@ The data will be loaded on opening. You can force a refresh via clicking on the 
 
 
 You like this addon?
-Just done to my LTC Account: Lgz2mD58KDy7ZRYnfkRGt6AFeKbED9ZEQs
+Just donate to my LTC Account: Lgz2mD58KDy7ZRYnfkRGt6AFeKbED9ZEQs
 
 Install
 ==========
