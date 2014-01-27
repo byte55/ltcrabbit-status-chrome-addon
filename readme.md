@@ -7,6 +7,10 @@ Click on the new icon in chrome and it will show a popup simliar to this:
 
 The data will be loaded on opening. You can force a refresh via clicking on the Refresh-Button ;)
 
+
+You like this addon?
+Just done to my LTC Account: Lgz2mD58KDy7ZRYnfkRGt6AFeKbED9ZEQs
+
 Install
 ==========
 
