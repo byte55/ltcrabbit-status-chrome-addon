@@ -11,6 +11,8 @@ The data will be loaded on opening. You can force a refresh via clicking on the 
 You like this addon?
 Just donate to my LTC Account: Lgz2mD58KDy7ZRYnfkRGt6AFeKbED9ZEQs
 
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/e3d142f1e0bcb842ab0a5965a38d9795 "githalytics.com")](http://githalytics.com/StrohhutMicha/ltcrabbit-status-chrome-addon)
+
 Install
 ==========
 
